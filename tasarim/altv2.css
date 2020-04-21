@@ -1,0 +1,52 @@
+/*altv2-v2
+------------------------------------*/
+.altv2 .footer {
+	padding: 40px 0;
+	background: #f7f7f7;
+	border-top: 3px solid #eee;
+}
+
+.altv2 .footer p {
+	color: #555;
+}
+
+.altv2 .headline h2 {
+	color: #585f69;
+}
+
+/*Footer subscribe*/
+.altv2 .footer-subscribe {
+	width: 100%;
+}
+
+/*Link List*/
+.altv2 .link-list li {
+	border-top: solid 1px #eee;
+}
+
+.altv2 .link-list a {
+	color: #555;
+}
+
+.altv2 address {
+	color: #555;
+	line-height: 23px;
+}
+
+.altv2 address i {
+	min-width: 20px;
+	margin-right: 5px;
+	text-align: center;
+}
+
+/*Copyright*/
+.altv2 .copyright {
+	border-top: none;
+	background: #eee;
+	padding: 20px 0 15px;
+}
+
+.altv2 .copyright p {
+	color: #555;
+	margin-bottom: 0;
+}
