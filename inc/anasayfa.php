@@ -230,7 +230,7 @@ function toggleview(element1) {
 					</div>			
 			 <div class="panel panel-default">
   <div class="panel-body">
-  <center></i> <b><a href="https://teaspeak.de/">Coding and Design by Hasan Atıl and BIOS for Teaspeak.de </a></span> 
+  <center></i> <b><a href="https://teaspeak.de/">Coding and Design by Hasan Atilan and BIOS for Teaspeak.de </a></span> 
  </i></span> 
  </div>
  </div>
